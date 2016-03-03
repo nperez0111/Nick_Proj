@@ -1,6 +1,0 @@
-[submodule "rapidJSON"]
-	path = rapidJSON
-	url = https://github.com/miloyip/rapidjson.git
-[submodule "Catch"]
-	path = Catch
-	url = https://github.com/philsquared/Catch.git
